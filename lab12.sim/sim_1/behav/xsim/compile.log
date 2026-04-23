@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/l846k503.HOME/Downloads/Lab12_helper/Master_Slave.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Master_Slave'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/l846k503.HOME/Downloads/lab_12_initial_files_Thursday/MS_DFF_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MS_DFF_tb'

@@ -1,0 +1,1 @@
+set_property severity {Warning} [get_drc_checks LUTLP-1]

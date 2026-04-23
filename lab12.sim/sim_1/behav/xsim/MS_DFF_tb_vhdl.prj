@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../Downloads/Lab12_helper/D_Latch.vhd" \
+"../../../../../../Downloads/Lab12_helper/Master_Slave.vhd" \
+"../../../../../../Downloads/lab_12_initial_files_Thursday/MS_DFF_TB.vhd" \
+
+# Do not sort compile order
+nosort
